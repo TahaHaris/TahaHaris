@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taha Harus</h1>
+<h1 align="center">Hi 👋, I'm Taha Haris</h1>
 <h3 align="center">An enthusiastic hardware-focused embedded systems developer, currently pursuing Electrical and Computer Engineering at UT Austin, with deep interests in embedded systems design, signal processing, and PCB design</h3>
 
 - 🔭 I’m currently working on **Cardio Sense** — a real-time heart rate and SpO₂ monitoring system using the ESP8266 and sensors.
@@ -33,9 +33,9 @@ I am a dedicated and detail-oriented electrical engineering student with a stron
 
 ## Technical Skills
 
-- **Programming Languages:** C (embedded systems), basic Python for data analysis, learning C++
+- **Programming Languages:** C, Python, ARM Assembly, learning C++
 
-- **Microcontrollers:** MSP430, MSPM0G3507, ARM Cortex-M0+
+- **Microcontrollers:** ESP8266, MSPM0G3507, ELEGOO UNO R3
 
 - **Sensors & Peripherals:** MAX30102 pulse oximeter sensor, ST7735 TFT LCD, slide potentiometers, buttons, analog/digital inputs
 
