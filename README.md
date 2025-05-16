@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Taha Haris</h1>
-<h3 align="center">An enthusiastic hardware-focused embedded systems developer, currently pursuing Electrical and Computer Engineering at UT Austin, with deep interests in embedded systems design, signal processing, and PCB design</h3>
 
 - 🔭 I’m currently working on **Cardio Sense** — a real-time heart rate and SpO₂ monitoring system using the ESP8266 and sensors.
 
@@ -9,13 +8,14 @@
 
 - 📫 How to reach me **taha.haris.314@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/tahah/Downloads/MyResume.pdf](file:///C:/Users/tahah/Downloads/MyResume.pdf)
 
 ---
 
 ## About Me
 
-I am a dedicated and detail-oriented electrical engineering student with a strong foundation in embedded systems, signal processing, and PCB design. At 17 years old, I have practical experience designing and developing embedded applications involving sensor integration, real-time data acquisition, and interactive user interfaces. My technical interests span embedded microcontroller programming, digital signal processing, and printed circuit board (PCB) layout and fabrication.
+Hi! I'm currently pursuing a degree in Electrical and Computer Engineering at UT Austin. I'm passionate about building intelligent, hardware-focused systems, with strong interests in embedded systems, power systems, PCB design, and robotics.
+
+I enjoy working on hands-on projects that blend software and hardware — from microcontroller-based applications and IoT devices to custom PCBs and control systems. I'm especially interested in low-level development, real-time systems, and how embedded technology powers the world around us.
 
 ---
 
