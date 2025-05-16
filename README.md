@@ -15,7 +15,7 @@
 
 ## About Me
 
-I am a dedicated and detail-oriented electrical engineering student with a strong foundation in embedded systems, signal processing, and applied physics. At 17 years old, I have practical experience designing and developing embedded applications involving sensor integration, real-time data acquisition, and interactive user interfaces. My technical interests span embedded microcontroller programming, digital signal processing, and the physics of oscillations and thermodynamics.
+I am a dedicated and detail-oriented electrical engineering student with a strong foundation in embedded systems, signal processing, and PCB design. At 17 years old, I have practical experience designing and developing embedded applications involving sensor integration, real-time data acquisition, and interactive user interfaces. My technical interests span embedded microcontroller programming, digital signal processing, and printed circuit board (PCB) layout and fabrication.
 
 ---
 
@@ -27,9 +27,7 @@ I am a dedicated and detail-oriented electrical engineering student with a stron
 
 - **Game Development:** Experience building 2D horizontally scrolling games on embedded TFT displays, including smooth graphics rendering, input handling, and collision detection.
 
-- **Physics & Applied Engineering:** Strong academic background in mechanics, oscillations, thermodynamics, and materials science, with practical lab experience in Hooke’s Law and pendulum motion.
-
-- **Data Analysis & Uncertainty:** Familiar with experimental data analysis, error propagation, statistical evaluation, and graphical data representation.
+- **PCB Design & Hardware Engineering:** Knowledgeable in schematic capture, PCB layout, and design for manufacturability, focusing on creating efficient and reliable embedded hardware systems.
 
 ---
 
@@ -43,7 +41,7 @@ I am a dedicated and detail-oriented electrical engineering student with a stron
 
 - **Embedded Tools & Techniques:** Timer/SysTick interrupts, I2C and SPI communication, real-time data buffering, signal filtering, input debouncing
 
-- **Physics & Engineering Concepts:** Hooke’s Law, simple harmonic motion, resonance, thermodynamics, wave mechanics, uncertainty quantification
+- **Hardware Design:** PCB schematic design, layout, and prototyping
 
 - **Version Control & Documentation:** Git workflows, technical documentation standards
 
@@ -55,9 +53,9 @@ I am a dedicated and detail-oriented electrical engineering student with a stron
 
 - Created a horizontally scrolling 2D racing game on an embedded TFT display with smooth graphics rendering, user input control via slide potentiometer, and dynamic obstacle collision handling.
 
-- Conducted physics experiments validating theoretical models such as Hooke’s Law and pendulum small-angle approximation, incorporating rigorous data analysis and uncertainty quantification.
+- Designed and prototyped custom PCBs for embedded projects ensuring optimal layout and signal integrity.
 
-- Designed embedded code optimized for performance and memory efficiency using interrupt-driven timers for accurate real-time updates.
+- Implemented embedded code optimized for performance and memory efficiency using interrupt-driven timers for accurate real-time updates.
 
 ---
 
