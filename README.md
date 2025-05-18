@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hi! I'm currently pursuing a degree in Electrical and Computer Engineering at UT Austin. I'm passionate about building intelligent, hardware-focused systems, with strong interests in embedded systems, power systems, PCB design, and robotics.
+Hi! I'm currently pursuing a degree in Electrical and Computer Engineering at UT Austin. I'm passionate about building intelligent, hardware-focused systems, with strong interests in embedded systems, power systems/electronics, PCB design, and robotics.
 
 I enjoy working on hands-on projects that blend software and hardware — from microcontroller-based applications and IoT devices to custom PCBs and control systems. I'm especially interested in low-level development, real-time systems, and how embedded technology powers the world around us.
 
