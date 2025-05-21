@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha Haris</h1>
 
-- 🔭 I’m currently working on **EnergyIQ* 
+- 🔭 I’m currently working on **EnergyIQ**.
 
 - 🌱 I’m currently learning **C++** and deepening my knowledge in embedded programming and signal processing algorithms.
 
