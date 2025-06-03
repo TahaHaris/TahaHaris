@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taha Haris</h1>
 
-- 🔭 I’m currently working on **EnergyIQ**.
+- 🔭 I’m currently working on an **Autonomous Secuirty Bot**.
 
-- 🌱 I’m currently learning **C++** and deepening my knowledge in embedded programming and signal processing algorithms.
+- 🌱 I’m currently learning **C++**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/TahaHaris](https://github.com/TahaHaris)
 
@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hi! I'm currently pursuing a degree in Electrical and Computer Engineering at UT Austin. I'm passionate about building intelligent, hardware-focused systems, with strong interests in embedded systems, power systems/electronics, PCB design, and robotics.
+Hi! I'm currently pursuing a degree in Electrical and Computer Engineering at UT Austin. I'm passionate about building intelligent, hardware-focused systems, with strong interests in embedded systems, power systems/electronics, and robotics.
 
 I enjoy working on hands-on projects that blend software and hardware — from microcontroller-based applications and IoT devices to custom PCBs and control systems. I'm especially interested in low-level development, real-time systems, and how embedded technology powers the world around us.
 
@@ -21,11 +21,11 @@ I enjoy working on hands-on projects that blend software and hardware — from m
 
 ## Technical Interests
 
-- **Embedded Systems & Microcontrollers:** Proficient in programming MSP430 and MSPM0G microcontrollers, focusing on sensor integration, interrupt-driven programming, and hardware interfacing with peripherals such as the MAX30102 pulse oximeter and ST7735 TFT LCD displays.
+- **Embedded Systems & Microcontrollers:** Proficient in programming MSP430 and MSPM0G microcontrollers, focusing on sensor integration, interrupt-driven programming, and hardware interfacing with peripherals.
+
+- **Power Electronics:** Designed and built a Buck Converter for efficient voltage regulation, analyzing duty cycle behavior, switching characteristics, and stability across various loads using simulation and hands-on testing.
 
 - **Signal Processing:** Skilled in processing physiological signals like heart rate and oxygen saturation using algorithms such as peak detection and the Maxim algorithm for SpO₂ calculation.
-
-- **Game Development:** Experience building 2D horizontally scrolling games on embedded TFT displays, including smooth graphics rendering, input handling, and collision detection.
 
 - **PCB Design & Hardware Engineering:** Knowledgeable in schematic capture, PCB layout, and design for manufacturability, focusing on creating efficient and reliable embedded hardware systems.
 
@@ -35,9 +35,7 @@ I enjoy working on hands-on projects that blend software and hardware — from m
 
 - **Programming Languages:** C, Python, ARM Assembly, learning C++
 
-- **Microcontrollers:** ESP8266, MSPM0G3507, ELEGOO UNO R3
-
-- **Sensors & Peripherals:** MAX30102 pulse oximeter sensor, ST7735 TFT LCD, slide potentiometers, buttons, analog/digital inputs
+- **Microcontrollers:** ESP8266, MSPM0G3507, Arduino Uno R3
 
 - **Embedded Tools & Techniques:** Timer/SysTick interrupts, I2C and SPI communication, real-time data buffering, signal filtering, input debouncing
 
@@ -48,6 +46,8 @@ I enjoy working on hands-on projects that blend software and hardware — from m
 ---
 
 ## Recent Projects & Achievements
+
+- Built an autonomous home security patrol robot capable of motion detection, obstacle avoidance, and cloud data logging via Firebase, integrating ultrasonic sensors and real-time decision-making algorithms.
 
 - Developed a real-time heart rate and SpO₂ monitoring system using the MAX30102 sensor integrated with MSPM0G microcontroller and displayed results on an ST7735 TFT screen.
 
