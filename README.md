@@ -25,8 +25,6 @@ I enjoy working on hands-on projects that blend software and hardware — from m
 
 - **Power Electronics:** Designed and built a Buck Converter for efficient voltage regulation, analyzing duty cycle behavior, switching characteristics, and stability across various loads using simulation and hands-on testing.
 
-- **Signal Processing:** Skilled in processing physiological signals like heart rate and oxygen saturation using algorithms such as peak detection and the Maxim algorithm for SpO₂ calculation.
-
 - **PCB Design & Hardware Engineering:** Knowledgeable in schematic capture, PCB layout, and design for manufacturability, focusing on creating efficient and reliable embedded hardware systems.
 
 ---
