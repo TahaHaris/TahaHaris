@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Taha Haris</h1>
----
 
 ## About Me
 
