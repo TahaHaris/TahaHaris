@@ -1,14 +1,4 @@
 <h1 align="center">Hi 👋, I'm Taha Haris</h1>
-
-- 🔭 I’m currently working on an **Autonomous Secuirty Bot**.
-
-- 🌱 I’m currently learning **C++**.
-
-- 👨‍💻 All of my projects are available at [https://github.com/TahaHaris](https://github.com/TahaHaris)
-
-- 📫 How to reach me **taha.haris.314@gmail.com**
-
-
 ---
 
 ## About Me
@@ -33,7 +23,7 @@ I enjoy working on hands-on projects that blend software and hardware — from m
 
 - **Programming Languages:** C, Python, ARM Assembly, learning C++
 
-- **Microcontrollers:** ESP8266, MSPM0G3507, Arduino Uno R3
+- **Microcontrollers:** ESP32, ESP8266, MSPM0G3507, Arduino Uno R3
 
 - **Embedded Tools & Techniques:** Timer/SysTick interrupts, I2C and SPI communication, real-time data buffering, signal filtering, input debouncing
 
@@ -45,7 +35,7 @@ I enjoy working on hands-on projects that blend software and hardware — from m
 
 ## Recent Projects & Achievements
 
-- Built an autonomous home security patrol robot capable of motion detection, obstacle avoidance, and cloud data logging via Firebase, integrating ultrasonic sensors and real-time decision-making algorithms.
+- Built **Auto Guardian**, a fully autonomous patrol robot featuring 360° ultrasonic obstacle avoidance, PIR-triggered motion detection, real-time buzzer alerts, and live Wi-Fi camera streaming via ESP32-CAM, with robust autonomous navigation and cloud data integration.
 
 - Developed a real-time heart rate and SpO₂ monitoring system using the MAX30102 sensor integrated with MSPM0G microcontroller and displayed results on an ST7735 TFT screen.
 
