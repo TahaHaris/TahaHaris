@@ -46,12 +46,6 @@ I enjoy working on hands-on projects that blend software and hardware — from m
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- Add your social links here, e.g.: -->
-<!-- <a href="https://linkedin.com/in/tahaharis" target="_blank">LinkedIn</a> -->
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Hardware / Embedded -->
